@@ -1,0 +1,9 @@
+*{margin: 0;}
+li
+{
+    list-style-type: none;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+}
