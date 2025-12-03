@@ -3,32 +3,33 @@
 {
     background-color: #1a1a1a;
     color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    max-width: 600px;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    max-width: 37.5rem;
     margin: auto;
 }
 h1
 {
     text-align: center;
+    font-size: 2.5rem;
 }
 .nav
 {
     list-style-type: none;
     display: inline;
-    font-size: 3vw;
-    padding-left: 60px;
-    padding-right: 30px;
+    font-size: 2rem;
+    padding-left: 3.75rem;
+    padding-right: 1.875rem;
 }
 #menu
 {
     text-align: center;
     background-color: #034747;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    max-width: 600px;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    max-width: 37.5rem;
     margin: auto;
     box-sizing: border-box;
 }
@@ -41,26 +42,28 @@ a
 {
     background-color: #1a1a1a;
     color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
     font-size: 16px;
-    max-width: 600px;
+    max-width: 37.5rem;
     margin: auto;
 }
 #footer
 {
     background-color: #1a1a1a;
     color: white;
-    max-width: 600px;
+    max-width: 37.5rem;
     margin: auto;
 }
 h2
 {
     text-align: center;
+    font-size: 2rem;
 }
 h3
 {
-    padding-left: 30px;
+    padding-left: 1.875rem;
+    font-size: 1.5rem;
 }
 #about
 {
@@ -68,12 +71,22 @@ h3
 }
 p
 {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 1.875rem;
+    padding-right: 1.875rem;
+    font-size: 1rem;
 }
 img
 {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
     width: 100%;
+}
+li{
+    font-size: 1rem;
+}
+ul{
+    font-size: 1rem;
+}
+ol{
+    font-size: 1rem;
 }
